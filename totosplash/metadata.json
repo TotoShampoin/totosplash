@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "TotoShampoin",
+                "Email": "thomas.garnier@totoshampoin.fr"
+            }
+        ],
+        "Category": "",
+        "Description": "",
+        "Name": "Toto's Splash",
+        "Website": "https://totoshampoin.fr"
+    }
+}
