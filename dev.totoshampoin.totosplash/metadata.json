@@ -10,6 +10,7 @@
         "Category": "",
         "Description": "",
         "Name": "Toto's Splash",
-        "Website": "https://totoshampoin.fr"
+        "Website": "https://totoshampoin.fr",
+        "Id": "dev.totoshampoin.totosplash"
     }
 }
